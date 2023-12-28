@@ -1,6 +1,7 @@
 import os
 import re
 
+#Comment
 #First character capitalized, the rest should be lowercase
 prevMon = "Snurrowl"
 newMon = "Stolyce"
